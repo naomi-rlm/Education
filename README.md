@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Differences in Educational Policy/Funding on Act scores across the US
 
-> A brief description of what the project does and its purpose.
+> This project will look at how per-pupil expenditures and student teacher ratios affect ACT scores.
 
 ---
 
